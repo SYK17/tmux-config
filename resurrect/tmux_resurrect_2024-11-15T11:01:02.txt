@@ -1,0 +1,29 @@
+pane	0	0	:bash	1	:*	0	:/Users/sammykim/Downloads	1	bash	:
+pane	0	1	:nvim	0	:-	0	:/Users/sammykim/.config/nvim	1	nvim	:nvim
+pane	0	2	:tmux	0	:	0	:/Users/sammykim/.config/wezterm	1	nvim	:nvim
+pane	0	3	:wezterm	0	:	0	:/Users/sammykim/.config/wezterm	1	nvim	:nvim
+pane	LLMs	0	:bash	0	:-	0	:/Users/sammykim	1	bash	:
+pane	LLMs	1	:bash	1	:*	0	:/Users/sammykim	1	bash	:
+pane	Microservices	0	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	1	nvim	:nvim
+pane	Microservices	1	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	1	nvim	:nvim test_client.py
+pane	Microservices	1	:bash	1	:*	1	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	0	Python	:/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python shuffle_service.py
+pane	Microservices	2	:bash	0	:-	0	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	0	nvim	:nvim
+pane	Microservices	2	:bash	0	:-	1	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	1	bash	:
+pane	Microservices	3	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	1	bash	:
+pane	Tujo	0	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/tujo	1	Python	:/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python run.py
+pane	Tujo	1	:nvim	0	:	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+pane	Tujo	2	:nvim	0	:-	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+window	0	0	1	:*	bcbe,175x53,0,0,1
+window	0	1	0	:-	bcbf,175x53,0,0,2
+window	0	2	0	:	b0a0,223x60,0,0,3
+window	0	3	0	:	b0a1,223x60,0,0,4
+window	LLMs	0	0	:-	bcc2,175x53,0,0,5
+window	LLMs	1	1	:*	b0a3,223x60,0,0,6
+window	Microservices	0	0	:	bcc4,175x53,0,0,7
+window	Microservices	1	1	:*	f131,175x53,0,0[175x45,0,0,9,175x7,0,46,10]
+window	Microservices	2	0	:-	1a2e,175x53,0,0[175x45,0,0,17,175x7,0,46,19]
+window	Microservices	3	0	:	5e97,175x53,0,0,18
+window	Tujo	0	1	:*	5a80,223x61,0,0,11
+window	Tujo	1	0	:	5a81,223x61,0,0,12
+window	Tujo	2	0	:-	5a82,223x61,0,0,13
+state	Microservices	0

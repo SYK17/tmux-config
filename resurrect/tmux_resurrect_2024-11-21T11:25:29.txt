@@ -1,0 +1,29 @@
+pane	0	0	:bash	0	:	0	:/Users/sammykim/Downloads	1	bash	:
+pane	0	1	:nvim	0	:	0	:/Users/sammykim/.config/nvim	1	nvim	:nvim
+pane	0	2	:tmux	0	:-	0	:/Users/sammykim	1	nvim	:nvim
+pane	0	3	:wezterm	1	:*	0	:/Users/sammykim/.config/wezterm	1	bash	:
+pane	LLMs	0	:bash	1	:*	0	:/Users/sammykim/Documents/code/personal/python	1	bash	:
+pane	LLMs	1	:bash	0	:-	0	:/Users/sammykim	1	bash	:
+pane	Microservices	0	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	1	bash	:
+pane	Microservices	1	:bash	0	:-	0	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	1	bash	:
+pane	Microservices	1	:bash	0	:-	1	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	0	bash	:
+pane	Microservices	2	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/microservices	1	bash	:
+pane	Microservices	2	:bash	1	:*	1	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	0	bash	:
+pane	Microservices	3	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/microservices/a_shuffle	1	bash	:
+pane	Tujo	0	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+pane	Tujo	1	:nvim	0	:-	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+pane	Tujo	2	:nvim	0	:	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+window	0	0	0	:	bcbe,175x53,0,0,1
+window	0	1	0	:	b09f,223x60,0,0,2
+window	0	2	0	:-	b0a0,223x60,0,0,3
+window	0	3	1	:*	b0a1,223x60,0,0,4
+window	LLMs	0	1	:*	b0a2,223x60,0,0,5
+window	LLMs	1	0	:-	b0a3,223x60,0,0,6
+window	Microservices	0	0	:	b0a4,223x60,0,0,7
+window	Microservices	1	0	:-	e1d6,175x53,0,0[175x45,0,0,8,175x7,0,46,9]
+window	Microservices	2	1	:*	ce7f,223x60,0,0[223x49,0,0,10,223x10,0,50,11]
+window	Microservices	3	0	:	5881,223x60,0,0,12
+window	Tujo	0	1	:*	5882,223x60,0,0,13
+window	Tujo	1	0	:-	5883,223x60,0,0,14
+window	Tujo	2	0	:	5884,223x60,0,0,15
+state	0	

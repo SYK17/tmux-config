@@ -1,0 +1,19 @@
+pane	0	0	:bash	1	:*	0	:/Users/sammykim	1	bash	:
+pane	Configs	0	:neovim	0	:-	0	:/Users/sammykim/.config/nvim	1	bash	:
+pane	Configs	1	:tmux	1	:*	0	:/Users/sammykim/.tmux	1	bash	:
+pane	Configs	2	:wezterm	0	:	0	:/Users/sammykim/.config/wezterm	1	nvim	:nvim wezterm.lua
+pane	Tujo	0	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/tujo	1	nvim	:nvim
+pane	Tujo	0	:bash	1	:*	1	:/Users/sammykim/Documents/code/school/361/tujo	0	Python	:/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python run.py
+pane	Tujo	1	:bash	0	:-	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+pane	Tujo	2	:nvim	0	:	0	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	1	nvim	:nvim
+pane	Tujo	2	:nvim	0	:	1	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	0	bash	:
+pane	Tujo	3	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+window	0	0	1	:*	c29d,223x55,0,0,0
+window	Configs	0	0	:-	c29e,223x55,0,0,1
+window	Configs	1	1	:*	c29f,223x55,0,0,2
+window	Configs	2	0	:	6181,223x55,0,0,12
+window	Tujo	0	1	:*	9ca8,223x55,0,0{126x55,0,0,9,96x55,127,0,21}
+window	Tujo	1	0	:-	6185,223x55,0,0,16
+window	Tujo	2	0	:	0984,223x55,0,0[223x42,0,0,11,223x12,0,43,15]
+window	Tujo	3	0	:	6186,223x55,0,0,17
+state	Configs	Tujo

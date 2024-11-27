@@ -1,0 +1,23 @@
+pane	General	0	:nvim	0	:	0	:/Users/sammykim/.config/nvim	1	nvim	:nvim
+pane	General	1	:tmux	1	:*	0	:/Users/sammykim/.tmux	1	nvim	:nvim
+nvim
+pane	General	2	:wezterm	0	:-	0	:/Users/sammykim/.config/wezterm	1	nvim	:nvim
+pane	General	3	:bash	0	:	0	:/Users/sammykim/.config/nvim	1	bash	:
+pane	Microservices	0	:bash	0	:-	0	:/Users/sammykim/Documents/code/school/361/tujo	1	nvim	:nvim
+pane	Microservices	0	:bash	0	:-	1	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	0	bash	:
+pane	Microservices	1	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	1	nvim	:nvim
+pane	Microservices	2	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+pane	Tujo	0	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/assignments	1	bash	:
+pane	Tujo	1	:nvim	0	:-	0	:/Users/sammykim/Documents/code/school/361/tujo	1	nvim	:nvim
+pane	Tujo	2	:nvim	1	:*	0	:/Users/sammykim/Documents/code/school/361/tujo	1	nvim	:nvim
+window	General	0	0	:	c55f,211x56,0,0,2
+window	General	1	1	:*	c560,211x56,0,0,3
+window	General	2	0	:-	c561,211x56,0,0,4
+window	General	3	0	:	6186,223x55,0,0,17
+window	Microservices	0	0	:-	7d68,223x60,0,0[223x49,0,0,8,223x10,0,50,9]
+window	Microservices	1	1	:*	62df,211x56,0,0,10
+window	Microservices	2	0	:	5881,223x60,0,0,12
+window	Tujo	0	0	:	5882,223x60,0,0,13
+window	Tujo	1	0	:-	62e3,211x56,0,0,14
+window	Tujo	2	1	:*	62e4,211x56,0,0,15
+state	General	

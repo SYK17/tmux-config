@@ -1,0 +1,16 @@
+pane	0	0	:bash	1	:*	0	:/Users/sammykim	1	bash	:
+pane	Configs	0	:neovim	1	:*	0	:/Users/sammykim/.config/nvim	1	nvim	:nvim
+pane	Configs	1	:tmux	0	:-	0	:/Users/sammykim/.tmux	1	nvim	:nvim
+pane	Configs	2	:wezterm	0	:	0	:/Users/sammykim/.config/wezterm	1	nvim	:nvim wezterm.lua
+pane	Tujo	0	:bash	1	:*	0	:/Users/sammykim/Documents/code/school/361/tujo	1	nvim	:nvim
+pane	Tujo	1	:nvim	0	:-	0	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	0	nvim	:nvim
+pane	Tujo	1	:nvim	0	:-	1	:/Users/sammykim/Documents/code/school/361/microservices/w_weather	1	node	:node weather.js
+pane	Tujo	2	:bash	0	:	0	:/Users/sammykim/Documents/code/school/361/tujo	1	bash	:
+window	0	0	1	:*	c29d,223x55,0,0,0
+window	Configs	0	1	:*	c29e,223x55,0,0,1
+window	Configs	1	0	:-	c29f,223x55,0,0,2
+window	Configs	2	0	:	6181,223x55,0,0,12
+window	Tujo	0	1	:*	c2a6,223x55,0,0,9
+window	Tujo	1	0	:-	0984,223x55,0,0[223x42,0,0,11,223x12,0,43,15]
+window	Tujo	2	0	:	6185,223x55,0,0,16
+state	Tujo	0
